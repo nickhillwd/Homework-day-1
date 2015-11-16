@@ -1,0 +1,3 @@
+hello. Addition of some text to file 1 for the purposes of completing the first day's homework.
+
+adding more text to simulate changes.
